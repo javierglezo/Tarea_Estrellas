@@ -1,1 +1,2 @@
 # Tarea_Estrellas
+Tarea de las estrellas: Proyecto7 de python de Javier González. Programa que pide al usuario ciertos valores para generar una estrella. Consta de 3 módulos llamados **Turtle_estrella_init.py, elige_tu_estrella.py y launcher.py**.
